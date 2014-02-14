@@ -1,0 +1,13 @@
+{
+  "name"          : "imgurScraper",
+  "description"   : "Crape meme images from imgur.",
+  "url"           : "http://github.com/auggernaut/imgurScraper",
+  "keywords"      : ["github", "oauth"],
+  "author"        : "Augustin Bralley",
+  "contributors"  : [],
+  "dependencies"  : ["request","sequelize", "mysql", "express"],
+  "engines"       : { "node": "0.6.x" },
+  "lib"           : ".",
+  "main"          : "index",
+  "version"       : "0.1.0"
+}
